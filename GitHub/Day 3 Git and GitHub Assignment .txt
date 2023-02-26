@@ -1,0 +1,41 @@
+﻿1. What is Git?
+Git is a distributed version control system that lets multiple developers contribute , maintain and track the changes made even on one huge project with ease.
+
+
+2. What do you understand by the term 'Version Control System'?
+Version control system (VCS) enables developers to cooperate with one another, keep track of changes made to a code over time, and maintain various versions of the code. Teams can collaborate on the same codebase at the same time using VCS while reducing the possibility of errors and confusion
+
+
+3. What is GitHub?
+GitHub is a repository that holds all the projects along with its history. It is like a warehouse for developers.
+
+
+4. Mention some popular Git hosting services.
+Some popular Git hosting services include GitHub, GitLab, Bitbucket, and Azure DevOps. These services provide cloud-based repositories for developers to store and collaborate on their Git projects.
+
+
+
+
+5. Different types of version control systems
+There are three types and they are : 
+* Localized VCS
+* Centralized VCS
+* Distributed VCS (recommended) 
+
+
+6. What benefits come with using GIT?
+Some of the major benefits of using GIT are : 
+* Allows developers to track changes to code over time, revert to previous versions if needed, and collaborate with other developers seamlessly.
+* It provides security for our code .
+* It makes it easier to merge the code onto a single project with ease and track it 
+* It has a huge community. We can get all the help we need if we are stuck.
+
+
+7. What is a Git repository?
+Git repository can be described as a unit of github. For example : we can say that the git repository is the folder like in our D drive and it will contain all the info for that specific d drive, like that our repository will have all the code files for a specific project.
+
+
+8. How can you initialize a repository in Git?
+
+
+We will use the command git init to initialize a repository in Git in our local . or we can create one from github with a few clicks and clone it into our local.
